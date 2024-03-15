@@ -1,4 +1,9 @@
 Kim Chhunkea
 [Hotel Information]
+365, Cambodia, Phnom penh
+check-in time: 7:30am
+check-out time: 6:00pm
 
 [Convience facilities]
+- Wifi
+- Two beds
